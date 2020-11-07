@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi! I'm Emmanuel
+Student, and working on projects. I speak native Spanish and fluent English.
+I usually work on projects on for a week or two.
 
-<!--
-**EmmanuelMess/EmmanuelMess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## General knowledge
+I know Java, Kotlin, C, some C++, and python. Also, Standard ML and Haskell.
 
-Here are some ideas to get you started:
+Most of my expirience is with Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have worked with Flutter and Xamarin on Android. Generally prefering Flutter.
+
+Also know my way around JHipster and work well with git.
+I use Ubuntu to work.
+
+## Contact
+Use my mail: emmanuelbendavid@gmail.com
