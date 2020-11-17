@@ -1,6 +1,6 @@
 # Hi! I'm Emmanuel
 Student, and working on projects. I speak native Spanish and fluent English.
-I usually work on projects on for a week or two.
+I usually time-limit my projects to about a week or two.
 
 ## General knowledge
 I know Java, Kotlin, C, some C++, and python. Also, Standard ML and Haskell.
