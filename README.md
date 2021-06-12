@@ -9,7 +9,7 @@ I have a strong background on computer science, studying at [FCEIA](https://www.
 
 On the machine learning side I know how Tensorflow and Pytorch work, but haven't done extensive long term work with those. I have a [Kaggle account](https://www.kaggle.com/emmanuelmess). 
 
-Most of my expirience is with Android. I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
+Most of my expirience is with Android, [here](https://github.com/EmmanuelMess?tab=repositories&q=Android&type=&language=&sort=) are my Android repos. I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
 
 I know how game math works, and have created [a few small games](https://github.com/EmmanuelMess?tab=repositories&q=Game&type=&language=&sort=), I have worked with Unity, Godot, LibGdx (Java/Kotlin), Ogre (C++). 
 
