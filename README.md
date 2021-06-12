@@ -7,9 +7,9 @@ I know Java, Kotlin, C, some C++, and Python. Also, Standard ML, Haskell and som
 
 I have a strong background on computer science, studying at [FCEIA](https://www.fceia.unr.edu.ar/). I have an intuitive understanding of Linear Algebra, and know how neural networks, transformers, GANs and other things that iteratively learn work, but don't have much expirience with hyperparameter optimization.
 
-Most of my expirience is with Android.
+On the machine learning side I know how Tensorflow and Pytorch work, but haven't done extensive long term work with those. I have a [Kaggle account](https://www.kaggle.com/emmanuelmess). 
 
-I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
+Most of my expirience is with Android. I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
 
 Also know my way around JHipster and work well with git.
 I use Ubuntu to work.
