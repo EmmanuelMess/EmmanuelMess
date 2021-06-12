@@ -3,7 +3,7 @@ Student, and working on projects. I speak native Spanish and fluent English.
 I usually time-limit my projects to about a week or two.
 
 ## General knowledge
-I know Java, Kotlin, C, some C++, and Python. Also, Standard ML, Haskell and some Erlang.
+I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), some [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), and [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers). Also, for school, not much to show, but I know Haskell, [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
 
 I have a strong background on computer science, studying at [FCEIA](https://www.fceia.unr.edu.ar/). I have an intuitive understanding of Linear Algebra, and know how neural networks, transformers, GANs and other things that iteratively learn work, but don't have much expirience with hyperparameter optimization.
 
