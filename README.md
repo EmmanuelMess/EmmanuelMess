@@ -11,6 +11,8 @@ On the machine learning side I know how Tensorflow and Pytorch work, but haven't
 
 Most of my expirience is with Android. I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
 
+I know how game math works, and have created [a few small games](https://github.com/EmmanuelMess?tab=repositories&q=Game&type=&language=&sort=), I have worked with Unity, Godot, LibGdx (Java/Kotlin), Ogre (C++). 
+
 Also know my way around JHipster and work well with git.
 I use Ubuntu to work.
 
