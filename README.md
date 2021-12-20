@@ -11,7 +11,7 @@ I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language
 
 I have a strong background on computer science, studying at [FCEIA](https://www.fceia.unr.edu.ar/). I have an intuitive understanding of Linear Algebra, and know how neural networks, transformers, GANs and other things that iteratively learn work, but don't have much expirience with hyperparameter optimization.
 
-On the machine learning side have worked with Caffe, Tensorflow and Pytorch. I have a [Kaggle account](https://www.kaggle.com/emmanuelmess). On the private side, I am doing work on classification, on embedded systems, for the detection of undergrowth.
+On the machine learning side have worked with Caffe, Tensorflow and Pytorch. I have a [Kaggle account](https://www.kaggle.com/emmanuelmess). On the private side, I am doing work on classification, for embedded systems, detecting undergrowth.
 
 Most of my expirience is with Android, [here](https://github.com/EmmanuelMess?tab=repositories&q=Android&type=&language=&sort=) are my Android repos. I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
 
