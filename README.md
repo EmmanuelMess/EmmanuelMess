@@ -5,7 +5,7 @@ I usually time-limit my projects to about a week or two.
 ## Knowledge
 
 ### General
-I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), some [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), and [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers). Also, for school, not much to show, but I know Haskell, [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
+I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), some [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), and [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers). Also, for school, not much to show, but I know [Haskell](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=haskell&sort=stargazers), [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
 
 ### Not so general
 
@@ -19,7 +19,7 @@ I know how game math works, and have created [a few small games](https://github.
 
 Also know my way around JHipster and work well with git.
 
-Networking was taught to me, and I know how some things work, OSI, TCP/IP, UDP, etc. but my knowledge is very limited, and I find difficult to understand the complexities of large scale reliability on high demand.
+Networking was taught to me, and I know how some things work, OSI, TCP/IP, UDP, IPv4, IPv6,v DHCP, ICMP, etc. but my knowledge is very limited, and I find difficult to understand the complexities of large scale reliability on high demand.
 
 I use Ubuntu to work.
 
