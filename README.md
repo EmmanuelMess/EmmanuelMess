@@ -25,7 +25,3 @@ I use Ubuntu to work.
 
 ## Contact
 Use my mail: emmanuelbendavid@gmail.com
-
-## Bragging?
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
