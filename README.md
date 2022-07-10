@@ -5,7 +5,8 @@ I code small projects that I usually time-limit to about a week or two.
 ## Knowledge
 
 ### General
-I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), and [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers). Also, for school, not much to show, but I know [Haskell](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=haskell&sort=stargazers), [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
+I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers) and some CUDA C++. Also, for school, not much to show, but I know [Haskell](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=haskell&sort=stargazers), [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
+
 
 ### Not so general
 
@@ -14,6 +15,8 @@ I have a strong background on computer science, studying at [FCEIA](https://www.
 On the machine learning side have worked with Caffe, Tensorflow and Pytorch. I have a [Kaggle account](https://www.kaggle.com/emmanuelmess). On the private side, I am doing work on classification, for embedded systems, detecting undergrowth.
 
 Most of my expirience is with Android, [here](https://github.com/EmmanuelMess?tab=repositories&q=Android&type=&language=&sort=) are my Android repos. I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
+
+I work with [ROS](https://www.ros.org/) and [ROS 2](https://github.com/ros2) both with C++ and Python, coding apps that do realtime processing of mutliple inputs with inference on embedded NVIDIA devices.
 
 I know how game math works, and have created [a few small games](https://github.com/EmmanuelMess?tab=repositories&q=Game&type=&language=&sort=), I have worked with Unity, Godot, LibGdx (Java/Kotlin), Ogre (C++). 
 
