@@ -28,3 +28,8 @@ I use Ubuntu.
 
 ## Contact
 Use my mail: emmanuelbendavid@gmail.com
+
+
+----
+<a class="imgpatreon" href="https://www.patreon.com/emmanuelmess" target="_blank">
+<img alt="Become a patreon" src="https://user-images.githubusercontent.com/10991116/56376378-07065400-61de-11e9-9583-8ff2148aa41c.png" width=150px></a>
