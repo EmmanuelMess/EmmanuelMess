@@ -16,7 +16,7 @@ On the machine learning side have worked with Caffe, Tensorflow and Pytorch. I h
 
 Most of my expirience is with Android, [here](https://github.com/EmmanuelMess?tab=repositories&q=Android&type=&language=&sort=) are my Android repos. I have worked with Flutter and Xamarin on Android. Generally prefering Flutter. I know how to interface C/C++ with Android.
 
-I work with [ROS](https://www.ros.org/) and [ROS 2](https://github.com/ros2) both with C++ and Python, coding apps that do realtime processing of mutliple inputs with inference on embedded NVIDIA devices.
+I work with [ROS](https://www.ros.org/) and [ROS 2](https://github.com/ros2) both with C++ and Python, coding apps that do realtime processing of mutliple inputs with inference on embedded NVIDIA devices that with CUDA and TensorRT. 
 
 I know how game math works, and have created [a few small games](https://github.com/EmmanuelMess?tab=repositories&q=Game&type=&language=&sort=), I have worked with Unity, Godot, LibGdx (Java/Kotlin), Ogre (C++). 
 
