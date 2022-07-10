@@ -24,7 +24,7 @@ Also know my way around JHipster and work well with git.
 
 Networking was taught to me, and I know how some things work, OSI, TCP/IP, UDP, IPv4, IPv6,v DHCP, ICMP, etc. but my knowledge is very limited, and I find difficult to understand the complexities of large scale reliability on high demand.
 
-I use Ubuntu to work.
+I use Ubuntu.
 
 ## Contact
 Use my mail: emmanuelbendavid@gmail.com
