@@ -5,7 +5,7 @@ I code small projects that I usually time-limit to about a week or two.
 ## Knowledge
 
 ### General
-I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers) and some CUDA C++. Also, for school, not much to show, but I know [Haskell](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=haskell&sort=stargazers), [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
+I know [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers) and some [CUDA C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=cuda&sort=stargazers). Also, for school, not much to show, but I know [Haskell](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=haskell&sort=stargazers), [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
 
 
 ### Not so general
