@@ -24,7 +24,7 @@ Also know my way around JHipster framework and I am proficient using git.
 
 Computer networking was taught to me but my knowledge is very limited (OSI, TCP/IP, UDP, IPv4, IPv6, DHCP, ICMP, etc.), and I struggle to understand the complexities of large scale reliability on high demand.
 
-I use Ubuntu.
+I use Ubuntu in my everyday life and I am somewhat familiar with how it works.
 
 ## Contact
 Use my mail: emmanuelbendavid@gmail.com
