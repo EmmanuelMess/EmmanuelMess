@@ -1,6 +1,6 @@
 # Hi! I'm Emmanuel
-I study computer science, I am a developer in agrotech, and I work on small projects. Spanish is my native language, I am fluent in English and I am studying Chinese.
-I code small projects that are time-limited to about a week or two.
+I study computer science, I am finishing my graduate thesis, and I work on small projects. Spanish is my native language, I am fluent in English and I am studying Chinese.
+Sometimes I code small projects that are time-limited to about a week or two.
 
 ## Knowledge
 ### General
