@@ -34,4 +34,6 @@ Use my mail: emmanuelbendavid@gmail.com
 
 ----
 <a class="imgpatreon" href="https://www.patreon.com/emmanuelmess" target="_blank"> <img alt="Become a patreon" src="https://user-images.githubusercontent.com/10991116/56376378-07065400-61de-11e9-9583-8ff2148aa41c.png" width=120px> </a>
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/EmmanuelsApps)
+<a href="https://github.com/sponsors/EmmanuelMess/button" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-EmmanuelMess-orange" alt="Sponsor @EmmanuelMess" />
+</a>
