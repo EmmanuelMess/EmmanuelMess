@@ -12,6 +12,8 @@ I'm finishing my computer science graduate thesis. I'm a developer in multiple F
 - 3D printing: A mechanical engineer and I made a 4 axis 3d printer, called [Core R-Theta 4 Axis Printer](https://github.com/EmmanuelMess/Core-R-Theta-4-Axis-Printer-UNR-Improvements), along with a UI for its software called [NonPlanarSlicingDeformation](https://github.com/EmmanuelMess/NonPlanarSlicingDeformation), and an adaptation to be able to run the 12860 screen with a 4th axis [Core R-Theta Menu System](https://github.com/EmmanuelMess/CoreRThetaMenuSystem).
 - And other tools: [MATLAB](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=matlab&sort=stargazers), Scilab and other similar math environments.
 
+<img align="right" width="100" src="images/printer.png">
+
 ### Not so general
 
 I have a strong background on computer science, studying licenciature in computer science at [FCEIA](https://www.fceia.unr.edu.ar/). I have an intuitive understanding of linear algebra, and know how neural networks, transformers, GANs and other similar systems work.
