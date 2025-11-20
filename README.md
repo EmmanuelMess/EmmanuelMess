@@ -1,6 +1,6 @@
 # Hi! I'm Emmanuel
 
-I'm finishing my computer science graduate thesis. I'm a developer in multiple FOSS projects, worked at agrotech, and I currently work on small projects. Spanish is my native language, I am fluent in English and I am studying Chinese.
+I have a Masters in Computer Science, and I know way too much about how GPS/GNSS works. I'm a developer in multiple FOSS projects, worked at agrotech, and I currently work on small projects. Spanish is my native language, I am fluent in English and I am studying Chinese.
 
 ## Knowledge
 ### General knowledge
