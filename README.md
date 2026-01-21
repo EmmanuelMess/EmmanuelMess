@@ -2,8 +2,7 @@
 
 I have a Master's in Computer Science, and I know way too much about how GPS/GNSS works. I'm a developer in multiple FOSS projects, worked at agrotech, and I currently work on small robotics projects. Spanish is my native language, I am fluent in English and I am studying Chinese.
 
-## Knowledge
-### Stuff I've done
+## What I do
 <img align="right" width="200" src="images/printer.png">
 
 - General coding (click to see my work on that language): [Java](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=java&sort=), [Kotlin](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=kotlin&sort=stargazers), [C](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c&sort=stargazers), [C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers), [Python](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=python&sort=stargazers), and some [CUDA C++](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=cuda&sort=stargazers) and [OpenCL C](https://github.com/EmmanuelMess?tab=repositories&q=opencl&type=&sort=stargazers). Also, for school, I have coded in [Haskell](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=haskell&sort=stargazers), [Erlang](https://github.com/EmmanuelMess?tab=repositories&q=&type=&language=erlang&sort=stargazers), and Standard ML.
